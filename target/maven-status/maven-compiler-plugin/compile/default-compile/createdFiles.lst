@@ -1,0 +1,10 @@
+Test\Main.class
+VirtualMachine\AgentMain.class
+memShell\Main.class
+VirtualMachine\TestAgentMain.class
+memShell\DefineTransformer.class
+Test\Agent.class
+VirtualMachine\AgentMainDemo.class
+VirtualMachine\DefineTransformer.class
+Test\DefineTransformer.class
+memShell\AgentMain.class
